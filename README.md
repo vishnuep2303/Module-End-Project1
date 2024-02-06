@@ -15,8 +15,8 @@ Rectified the 'height' column by replacing incorrect values with random numbers 
     2.Team Analysis:
 
 Calculated the employee count in each team and the percentage distribution concerning the total workforce.
-Visualized the team distribution using a countplot for clear representation
-.
+Visualized the team distribution using a countplot for clear representation.
+
     3.Position Segregation:
 
 Segmented employees based on their positions to analyze the distribution among various roles within the company.

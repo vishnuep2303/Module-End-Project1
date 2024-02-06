@@ -6,28 +6,28 @@ Project Introduction:
 Objective: This Python project aimed to perform a comprehensive analysis of the dataset provided by ABC company, containing detailed information 
 about its employees. The key objectives included:
 
-1.Data Preprocessing:
+    1.Data Preprocessing:
 
 Imported essential modules: NumPy, Pandas, Seaborn, Matplotlib.
 Handled missing or incorrect data effectively.
 Rectified the 'height' column by replacing incorrect values with random numbers within the range of 150 to 180.
-2.Team Analysis:
+    2.Team Analysis:
 
 Calculated the employee count in each team and the percentage distribution concerning the total workforce.
 Visualized the team distribution using a countplot for clear representation.
-3.Position Segregation:
+    3.Position Segregation:
 
 Segmented employees based on their positions to analyze the distribution among various roles within the company.
 Visualized the position distribution using countplot visualization.
-4.Age Group Identification:
+    4.Age Group Identification:
 
 Identified the predominant age group among employees.
 Visualized the age distribution using countplots for enhanced insight.
-5.Salary Analysis:
+    5.Salary Analysis:
 
 Determined the team and position with the highest salary spending.
 Utilized scatterplots to illustrate the relationship between team, position, and salary expenditures.
-6.Correlation between Age and Salary:
+    6.Correlation between Age and Salary:
 
 Explored the relationship between employees' age and their corresponding salaries.
 Presented discovered correlations through heatmaps for clear visualization.
